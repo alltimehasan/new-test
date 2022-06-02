@@ -8,3 +8,11 @@ h1 {
     color: red;
     font-size: 100px;
 }
+
+.box {
+    width: 960px;
+    padding: 50px;
+    border: 1px solid lightgray;
+    margin: 50px auto;
+    background-color: cornsilk;
+}
